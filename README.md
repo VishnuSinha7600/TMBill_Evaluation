@@ -2,7 +2,7 @@
 
 This is a full-stack web application built as part of the TMBill Evaluation assignment. 
 It features a user login system, registration, and a personalized To-Do list where users can create, read, update, and delete tasks. 
-Each task stores a title, description, completion status, and is tied to the logged-in user.
+Each task stores a title, description ,Dates, and is tied to the logged-in or logout user  and reset Password .
 
 ## 🌐 Live Demo
 
