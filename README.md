@@ -21,28 +21,39 @@ Each task stores a title, description, completion status, and is tied to the log
 bash
 cd backend
 npm install
-# Add a .env file with MONGO_URI and JWT_SECRET
 npm start
 
 ✨Frontend
 
 cd frontend
+
 npm install
+
 npm start
 
 
 🗂️ Project Structure
 
 TMBill-Evaluation/
+
 │
+
 ├── backend/ # Express.js server
+
 │ ├── models/ # Mongoose schemas (User, Task)
+
 │ ├── routes/ # Auth and Task routes
+
 │ └── index.js # Server entry point
+
 │
+
 ├── frontend/ # React application
+
 │ ├── public/ # Static files and _redirects
+
 │ ├── src/ # Pages, components, and API logic
+
 │ └── package.json # Frontend scripts and dependencie
 
 
