@@ -1,0 +1,22 @@
+body {
+  background-image: linear-gradient(to right, #3b82f6, #dbeafe); /* blue-500 to blue-100 */
+}
+
+
+@keyframes typing {
+  from { width: 10% }
+  to { width: 100% }
+}
+@keyframes blink {
+  10% { border-color: transparent; }
+}
+
+.typing-effect {
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 2px solid;
+  width: fit-content;
+  animation:
+    typing 4s steps(20, end) infinite,
+    blink 0.75s step-end infinite;
+}
