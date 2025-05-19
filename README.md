@@ -7,7 +7,7 @@ Each task stores a title, description, completion status, and is tied to the log
 ## 🌐 Live Demo
 
 - **Frontend (React + Tailwind CSS):** [Live on Netlify](https://glistening-kitsune-9ae470.netlify.app/)
-- **Backend (Express.js + MongoDB):** [Live on Render](https://github.com/VishnuSinha7600/TMBill_Evaluation/tree/main)
+- **Backend (Express.js + MongoDB):** [Live on Render](https://github.com/VishnuSinha7600/TMBill_Evaluation)
 
 
 🚀 Getting Started (Local Setup)
