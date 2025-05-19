@@ -16,12 +16,18 @@ Each task stores a title, description, completion status, and is tied to the log
 - Node.js, npm
 - MongoDB URI
 
+
+
 ✨Backend
 
 bash
+
 cd backend
+
 npm install
+
 npm start
+
 
 ✨Frontend
 
@@ -30,6 +36,8 @@ cd frontend
 npm install
 
 npm start
+
+
 
 
 🗂️ Project Structure
